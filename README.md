@@ -2,6 +2,9 @@
 
 A multi-page e-commerce front-end built by a student team with **HTML5, CSS3 and  JavaScript**.
 
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/ecbcbeb2-d54e-40b1-b659-11b0d7b361ee" />
+<img width="1910" height="948" alt="image" src="https://github.com/user-attachments/assets/3225d09c-3950-407f-a8b0-b6a1b72482b4" />
+
 ## Features
 - Product listing pages with hover cards and category search routing
 - Shopping cart persisted in `localStorage` (add / change quantity / remove / total / live badge)
@@ -20,3 +23,4 @@ A multi-page e-commerce front-end built by a student team with **HTML5, CSS3 and
 
 ## Run locally
 Open `index.html`, or: `python -m http.server 8000` then visit http://localhost:8000
+
